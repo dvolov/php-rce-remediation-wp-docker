@@ -1,0 +1,14 @@
+# Obsidian (in case .obsidian/ appears inside the project directory)
+.obsidian/
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# macOS (in case files are opened on a Mac)
+.DS_Store
+
+# Temporary editor files
+*~
+*.swp
+*.bak
